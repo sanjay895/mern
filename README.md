@@ -10,7 +10,7 @@ This is a **MERN stack authentication system** with **Login, Signup, and Google 
 ✅ Password Hashing with bcrypt  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React, Axios, React Router  
+- **Frontend**: React,React Router  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Mongoose  
 - **Authentication**: JWT, Google OAuth  
