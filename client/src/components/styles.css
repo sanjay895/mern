@@ -1,0 +1,120 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+  }
+  
+  body {
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Container Styling */
+  .container {
+    width: 400px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Heading */
+  h2 {
+    margin-bottom: 15px;
+    color: #444;
+  }
+  
+  /* Input Fields */
+  input {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Buttons */
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: greenyellow;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #00b35a;
+  }
+  
+  /* Links */
+  p {
+    margin-top: 10px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Welcome Page */
+  .welcome-container {
+    text-align: center;
+  }
+  
+  .welcome-container h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+  }
+  
+  .welcome-container p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Course Page */
+  .courses-container {
+    width: 600px;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .course {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .course:last-child {
+    border-bottom: none;
+  }
+  
+  .course h3 {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .course p {
+    font-size: 14px;
+    color: #666;
+  }
+  
