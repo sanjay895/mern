@@ -15,10 +15,13 @@ This is a **MERN stack authentication system** with **Login, Signup, and Google 
 - **Database**: MongoDB, Mongoose  
 - **Authentication**: JWT, Google OAuth  
 
-## 📷 Screenshots  
-🔹 **Login Page**  ![image](https://github.com/user-attachments/assets/a56139df-6f8a-4725-aa56-668afc05afc6)
+## screenrecording
 
-🔹 **Signup Page**  ![image](https://github.com/user-attachments/assets/1bdb27fb-dc81-447b-84d4-5eb5a86d656b)
+
+
+https://github.com/user-attachments/assets/7446e4fc-ccac-4684-b65d-5f4b2253312c
+
+
 
 
 
